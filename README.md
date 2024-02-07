@@ -20,4 +20,4 @@
 * Font Formater
 * Bold
 * '&' Support for some plugins
-* Click the output for copy
+* Click the output to copy
