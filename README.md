@@ -14,6 +14,7 @@
 ## Screenshots:
 
 ![](https://i.imgur.com/URU1vur.png)
+![](https://i.imgur.com/rtAUlOp.png)
 
 ## Features:
 * Font Formater
