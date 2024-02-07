@@ -21,3 +21,4 @@
 * Bold
 * '&' Support for some plugins
 * Click the output to copy
+* Persistent Data Container to Checkbox and Colors
