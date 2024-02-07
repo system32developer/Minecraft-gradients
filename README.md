@@ -1,7 +1,7 @@
 # Minecraft Gradients
 
 > [!CAUTION]
-> You need java 17+ installed on your device!
+> You need java 8+ installed on your device!
 
 > [!IMPORTANT]
 > > **How to install:**<br />
